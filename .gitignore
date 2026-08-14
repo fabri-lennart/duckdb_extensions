@@ -1,0 +1,28 @@
+# Dependencies
+*.egg-info/
+.eggs/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data and outputs
+data/*
+outputs/*
+
+# Keep directories but ignore contents
+!data/.gitkeep
+!outputs/.gitkeep
