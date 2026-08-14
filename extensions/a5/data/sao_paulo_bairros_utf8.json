@@ -1,0 +1,34 @@
+﻿{
+  "cidade": "São Paulo",
+  "estado": "SP",
+  "slug": "sao-paulo",
+  "url": "https://autocidade.com/sao-paulo-sp/bairros",
+  "total_bairros": 63,
+  "regioes": [
+    {
+      "slug": "zona-sul",
+      "nome": "Zona Sul",
+      "bairros": ["Moema", "Itaim Bibi", "Vila Mariana", "Santo Amaro", "Campo Belo", "Brooklin", "Vila Olimpia", "Morumbi", "Campo Limpo", "Capao Redondo", "Jardim Angela", "Grajau", "Interlagos", "Cidade Dutra", "Socorro", "Jabaquara", "Saude", "Cursino", "Ipiranga", "Sacoma"]
+    },
+    {
+      "slug": "zona-norte",
+      "nome": "Zona Norte",
+      "bairros": ["Santana", "Tucuruvi", "Casa Verde", "Freguesia do O", "Limao", "Vila Maria", "Vila Guilherme", "Jacana", "Tremembe", "Mandaqui", "Cachoeirinha", "Brasilandia", "Pirituba", "Jardim Sao Paulo"]
+    },
+    {
+      "slug": "zona-oeste",
+      "nome": "Zona Oeste",
+      "bairros": ["Pinheiros", "Perdizes", "Lapa", "Alto de Pinheiros", "Vila Madalena", "Pompeia", "Sumare", "Barra Funda", "Butanta", "Rio Pequeno", "Jaguare", "Vila Leopoldina", "Raposo Tavares"]
+    },
+    {
+      "slug": "zona-leste",
+      "nome": "Zona Leste",
+      "bairros": ["Tatuape", "Penha", "Mooca", "Vila Prudente", "Sao Mateus", "Itaquera", "Guaianases", "Cidade Tiradentes", "Aricanduva", "Cangaiba", "Ermelino Matarazzo", "Sao Miguel Paulista", "Vila Formosa", "Agua Rasa", "Belem", "Bras", "Pari"]
+    },
+    {
+      "slug": "centro",
+      "nome": "Centro",
+      "bairros": ["Se", "Republica", "Consolacao", "Santa Cecilia", "Bom Retiro", "Liberdade", "Bela Vista", "Cambuci", "Aclimacao"]
+    }
+  ]
+}
